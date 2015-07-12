@@ -17,3 +17,5 @@ LoginTestV7 : It is shown that Pageobjects can be found in a seperate class and 
 
 LoginTestV8 : Screenshot is taken if there is a failure during the testing process.
 
+MainPageUrlTest : Top menu navigation links(Home, About, Use, Get) and Participating Agiencies' image links are tested in this class.
+
